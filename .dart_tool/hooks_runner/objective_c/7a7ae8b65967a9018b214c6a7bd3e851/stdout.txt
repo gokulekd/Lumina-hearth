@@ -1,0 +1,56 @@
+Running `(cd /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/gokulks/Library/Android/sdk TMPDIR=/var/folders/qd/7qz3h9r96ssdrkq5nr9pkp980000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Users/gokulks/.bun/bin:/Users/gokulks/.antigravity/antigravity/bin:/Users/gokulks/.codeium/windsurf/bin:/Users/gokulks/.nvm/versions/node/v22.17.1/bin:/Users/gokulks/bin:/Users/gokulks/.gem/ruby/3.4.0/bin:/opt/homebrew/opt/ruby/bin:/Users/gokulks/.gem/bin:/Users/gokulks/.pub-cache/bin:/Users/gokulks/Library/Android/sdk/platform-tools:/Users/gokulks/Library/Android/sdk/tools:/opt/homebrew/opt/openjdk@17/bin:/Users/gokulks/development/flutter/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin HOME=/Users/gokulks /Users/gokulks/development/flutter/bin/cache/dart-sdk/bin/dart '--packages=/Users/gokulks/personal projects/Lumina-hearth/.dart_tool/package_config.json' '/Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/objective_c/7a7ae8b65967a9018b214c6a7bd3e851/hook.dill' '--config=/Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/objective_c/7a7ae8b65967a9018b214c6a7bd3e851/input.json' )`.
+INFO: 2026-02-26 00:35:25.608761: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-02-26 00:35:25.623821: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-02-26 00:35:25.641032: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-02-26 00:35:25.641832: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-02-26 00:35:25.642172: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c.m.o
+
+INFO: 2026-02-26 00:35:25.642414: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/observer.m.o
+
+INFO: 2026-02-26 00:35:25.642594: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/ns_number.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/ns_number.m.o
+INFO: 2026-02-26 00:35:25.642721: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/protocol.m.o
+INFO: 2026-02-26 00:35:25.642830: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/gokulks/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-02-26 00:35:25.691590: 
+INFO: 2026-02-26 00:35:25.691769: 
+INFO: 2026-02-26 00:35:25.691824: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-02-26 00:35:25.703738: 
+INFO: 2026-02-26 00:35:25.703814: 
+INFO: 2026-02-26 00:35:25.703835: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c.c.o
+
+INFO: 2026-02-26 00:35:25.721199: 
+INFO: 2026-02-26 00:35:25.721242: 
+INFO: 2026-02-26 00:35:25.721308: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/observer.m.o
+
+INFO: 2026-02-26 00:35:25.726865: 
+INFO: 2026-02-26 00:35:25.726905: 
+INFO: 2026-02-26 00:35:25.726916: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/protocol.m.o
+
+INFO: 2026-02-26 00:35:25.821748: 
+INFO: 2026-02-26 00:35:25.821784: 
+INFO: 2026-02-26 00:35:25.821795: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/ns_number.m.o
+
+INFO: 2026-02-26 00:35:25.828060: 
+INFO: 2026-02-26 00:35:25.828097: 
+INFO: 2026-02-26 00:35:25.828107: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c.m.o
+
+INFO: 2026-02-26 00:35:25.837979: 
+INFO: 2026-02-26 00:35:25.838013: 
+INFO: 2026-02-26 00:35:25.838024: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-02-26 00:35:25.859365: 
+INFO: 2026-02-26 00:35:25.859407: 
+INFO: 2026-02-26 00:35:25.859419: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-02-26 00:35:25.859778: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=12 /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/include/dart_api_dl.c.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c.c.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/input_stream_adapter.m.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c.m.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/observer.m.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/ns_number.m.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/protocol.m.o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/obj/src/objective_c_bindings_generated.m.o -o /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/objective_c.dylib
+
+INFO: 2026-02-26 00:35:25.892650: 
+INFO: 2026-02-26 00:35:25.892705: ld: warning: -undefined dynamic_lookup is deprecated on iOS
+
+INFO: 2026-02-26 00:35:25.892716: Generated /Users/gokulks/personal projects/Lumina-hearth/.dart_tool/hooks_runner/shared/objective_c/build/7a7ae8b659/objective_c.dylib
+
